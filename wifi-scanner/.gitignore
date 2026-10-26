@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Dữ liệu tải về / xuất ra khi chạy tool
+oui.txt
+wifi_scan_*.csv
+wifi_scan_*.json
+
+# Editor
+.vscode/
+.idea/
